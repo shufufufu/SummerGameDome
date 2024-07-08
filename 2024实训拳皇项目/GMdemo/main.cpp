@@ -33,6 +33,8 @@ IMAGE img_rg;
 void initgame() {
 	initgraph(WINDOW_WIDTH, WINDOW_HEIGHT);
 }
+
+//此为底层内容，关系到计时器的计算，虽然已经没有实际作用，但是不可修改或删除
 void background() {
 	IMAGE img;
 	loadimage(&img, "./sucaiku/background/00.png", WINDOW_WIDTH, WINDOW_HEIGHT, true);

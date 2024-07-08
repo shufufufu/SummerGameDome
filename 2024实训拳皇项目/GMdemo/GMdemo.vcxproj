@@ -71,7 +71,7 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>E:\大学资料\2024实训\GMdemo-local\GMpeter\GMdemo\include;$(IncludePath)</IncludePath>
+    <IncludePath>E:\大学资料\2024实训\GMdemo-local\2024实训拳皇项目\GMdemo\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
