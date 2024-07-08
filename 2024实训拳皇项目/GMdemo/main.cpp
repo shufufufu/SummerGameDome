@@ -356,7 +356,7 @@ int main()
 		MessageBox(GetHWnd(), _T("p2,KO!"), _T("”Œœ∑Ω· ¯"), MB_YESNO | MB_ICONQUESTION);
 		while (1);
 	}
-	else
+	else if(p1.health == 0)
 	{
 		cleardevice();
 		EndBatchDraw();
