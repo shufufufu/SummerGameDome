@@ -1,0 +1,30 @@
+﻿  Animation.cpp
+  BackgroundAnimationcpp.cpp
+  Button.cpp
+  IntiButton.cpp
+  LoadGameButton.cpp
+  main.cpp
+  player.cpp
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\player.cpp(8,15): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\player.cpp(9,15): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\player.cpp(63,21): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\player.cpp(69,22): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\player.cpp(75,22): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  PlayerAnimation.cpp
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(7,83): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(7,83): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(11,90): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(11,90): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(22,82): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(22,82): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(26,88): warning C4838: 从“double”转换到“int”需要收缩转换
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\PlayerAnimation.cpp(26,88): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  QuitGameButton.cpp
+  RegisterGameButtom.cpp
+  InitGame.cpp
+  StartGameButton.cpp
+  RandBlock.cpp
+  Userdata.cpp
+  正在生成代码...
+E:\大学资料\2024实训\拳皇项目精简\GMdemo\Userdata.cpp(156,1): warning C4715: “userdata::signup”: 不是所有的控件路径都返回值
+  GMdemo.vcxproj -> E:\大学资料\2024实训\拳皇项目精简\x64\Debug\GMdemo.exe
